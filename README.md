@@ -8,6 +8,6 @@ Welcome to the **CoMatch** repository! This is the official implementation of ou
 
 ## 🧠 Overview
 <div align="center">
-  <img src="./assets/overview.png" width="90%">
+  <img src="./assets/overview.png" width="100%">
   <br/>
 </div>
