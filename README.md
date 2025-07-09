@@ -20,7 +20,7 @@ Welcome to the **CoMatch** repository! This is the official implementation of ou
 - **Stage 4:** Fine distinctive features $\widehat{\mathbf{F}}^\mathbf{B}$ and $\widehat{\mathbf{F}}^\mathbf{B}$ at the original resolution are derived by progressively fusing $^{(L)}\mathbf{F}^{\mathbf{A}}$ and $^{(L)}\mathbf{F}^{\mathbf{B}}$ with backbone features at $\frac{1}{4}$ and $\frac{1}{2}$ resolutions. Later, feature patches centered on $\mathcal{M}_c$ are cropped, followed by a two-stage refinement to produce fine matches $\mathcal{M}_f$ with bilateral subpixel accuracy.
 
 <div align="center">
-  <img src="./assets/overview.png" width="100%">
+  <img src="./assets/pipeline_overview.png" width="100%">
   <br/>
 </div>
 
