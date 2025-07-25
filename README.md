@@ -1,6 +1,9 @@
-# CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching
+# CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching (🏆 ICCV '25 Highlight)
 
 ![CoMatch Logo](https://img.shields.io/badge/CoMatch-Official%20Implementation-blue) 
+[![Conference](https://img.shields.io/badge/ICCV-2025-green)]()
+[![Highlight](https://img.shields.io/badge/Highlight-Top%203%25-orange)]()
+
 
 ### [Paper](https://arxiv.org/pdf/2503.23925) 
 
